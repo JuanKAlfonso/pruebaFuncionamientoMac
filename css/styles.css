@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#tono2{
+    animation-delay: .5s;
+}
+
+#tono3{
+    animation-delay: 1s;
+}
+
+#ojos{
+    animation-delay: 1.5s;
+}
+
+#nombre{
+    animation-delay: 2s;
+}
+
+#linea{
+    animation-delay: 2.5s;
+}
+
+#disenador{
+    animation-delay: 3s;
+}
